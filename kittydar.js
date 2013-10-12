@@ -46,7 +46,7 @@ var defaultParams = {
   }
 }
 
-function Kittydar(options) {
+function Kittypar(options) {
   this.params = {};
   extend(this.params, defaultParams);
   extend(this.params, options);
